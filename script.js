@@ -9,4 +9,3 @@ if (c == "+"){
 } else if (c == '/'){
     alert(d = a/b);
 }
-return;
